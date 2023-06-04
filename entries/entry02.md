@@ -41,7 +41,7 @@ if (me.input.isKeyPressed("up")){
 ```
 This causes the player to move up and down along the y axis.
 
-My goal for winter break is to do any missing assignments that I have for other classes.
+My goal for winter break is to 
 I am on stage 2 of the Engineering Design Process, "Researching the problem" because I am using the MelonJS docs to tinker with my tool.
 The skills I grew in are "How to read" and "How to learn" because I had to read the documentation so I could tinker with MelonJS.
 [Previous](entry01.md) | [Next](entry03.md)

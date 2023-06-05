@@ -1,20 +1,20 @@
 # SEP11 Freedom Project
-by X
+by Emily Lin
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about using Javascript to make a functional project. The purpose of this blog is to make a project using a Javascript tool.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a 2D platformer using MelonJS. This blog will walk through my process of independently studying MelonJS in order to make a platformer game.
 
 ## Links
 
-Product
+[Product](https://emilyl9154.github.io/melonjs-platformer)
 
-Presentation
+[Presentation](https://docs.google.com/presentation/d/1YDjExDAkW3m6m1cd-Cg7B-AbnVsoNKu0bNLqVaH5fN4/edit#slide=id.gace710277d_0_491)
 
 ## Implications
-X
+Social: entertainment
 
 ---
 
